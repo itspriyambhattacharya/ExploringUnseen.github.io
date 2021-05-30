@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+/* Serif Font */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
 .blogheading {
     width: 100%;
     display: flex;
@@ -33,4 +35,12 @@
 .postimg img {
     width: 70%;
     height: auto;
+}
+.postheading {
+    font-family: 'Nanum Myeongjo', serif;
+}
+.postdes {
+    margin-bottom: 20px ;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
 }
