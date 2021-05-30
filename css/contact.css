@@ -10,10 +10,24 @@
 }
 .flexform {
     margin: 0px 150px;
-    padding: 30px 0px;
+    padding: 30px 200px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     border: 2px solid black;
+}
+.flexform label {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+}
+.flexform input {
+    width: 100%;
+    height: auto;
+    min-height: 44px;
+}
+.m30px {
+    margin-bottom: 30px;
+}
+.flexdown {
+    display: flex;
+    flex-direction: column;
 }
