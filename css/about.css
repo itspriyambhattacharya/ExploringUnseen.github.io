@@ -22,3 +22,10 @@
     width: 100%;
     height: auto;
 }
+.aboutpara {
+    margin: 0 150px 50px;
+}
+.aboutpara p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
