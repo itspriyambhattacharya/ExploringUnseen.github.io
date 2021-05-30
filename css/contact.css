@@ -1,19 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+/* Contact Me Font Below */
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 .contactmehere {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 50px ;
 }
 .contactmehere h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    /* color: #d3a4a4; */
 }
 .flexform {
     margin: 0px 150px;
     padding: 50px 200px 30px;
     display: flex;
     flex-direction: column;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .flexform label {
     font-family: 'Open Sans', sans-serif;
