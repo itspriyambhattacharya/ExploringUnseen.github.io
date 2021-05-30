@@ -27,6 +27,10 @@
     width: 100%;
     height: auto;
     min-height: 44px;
+    border: none;
+}
+.flexform textarea {
+    border: none;
 }
 .m30px {
     margin-bottom: 30px;
