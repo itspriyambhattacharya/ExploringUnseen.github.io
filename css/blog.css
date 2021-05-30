@@ -11,7 +11,11 @@
 .m150pxlr {
     margin: 0px 150px;
     padding: 0px 50px ;
-    border: 2px solid black;
+    box-shadow: 2px 2px 10px 7px rgb(3, 169, 244);
+    /* border: 2px solid black; */
+}
+.blogheading {
+    padding-top: 50px;
 }
 .blogheading h2 {
     font-family: 'Rubik', sans-serif;
@@ -26,6 +30,7 @@
 }
 .postimg  {
     width: 100%;
+    margin-top: 20px;
     /* border: 2px solid red; */
     display: flex;
     justify-content: center;
