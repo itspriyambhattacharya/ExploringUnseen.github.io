@@ -1,0 +1,13 @@
+.imageofauthor {
+    margin: 20px 130px;
+    /* width: 100vw; */
+    /* height: auto; */
+    border: 2px solid rgb(131, 50, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageofauthor img {
+    width: 100%;
+    height: auto;
+}
