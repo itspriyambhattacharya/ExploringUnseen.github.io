@@ -8,6 +8,7 @@
 }
 .m150pxlr {
     margin: 0px 150px;
+    border: 2px solid black;
 }
 .blogheading h2 {
     font-family: 'Rubik', sans-serif;
