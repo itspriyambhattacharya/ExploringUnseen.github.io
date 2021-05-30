@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+.blogheading {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px ;
+}
+.m150pxlr {
+    margin: 0px 150px;
+}
+.blogheading h2 {
+    font-family: 'Rubik', sans-serif;
+    color: #f44336;;
+}
