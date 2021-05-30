@@ -21,10 +21,4 @@ $ (document).ready(function() {
     $ ('#message').mouseleave(function(){
         $(this).css('box-shadow' , 'none') ;
     });
-    // $('.flexform input').focus(function() {
-    //     $(this).css('box-shadow' , '2px 2px 15px 0px #000')
-    // })
-    // $('.flexform input').blur(function() {
-    //     $(this).css('box-shadow' , 'none')
-    // })
 });
