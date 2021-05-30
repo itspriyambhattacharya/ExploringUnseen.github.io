@@ -8,9 +8,29 @@
 }
 .m150pxlr {
     margin: 0px 150px;
+    padding: 0px 50px ;
     border: 2px solid black;
 }
 .blogheading h2 {
     font-family: 'Rubik', sans-serif;
     color: #f44336;;
+}
+.post {
+    /* border: 2px solid brown; */
+    width: 100%;
+    display: grid;
+    row-gap: 20px;
+
+}
+.postimg  {
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* overflow: hidden; */
+}
+.postimg img {
+    width: 70%;
+    height: auto;
 }
